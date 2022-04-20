@@ -12,3 +12,8 @@
 - More kind of zombies
 - More designs of weapons
 - update later
+### Game engine and programming language
+- The game will use the game engine Unity and the programming language C#
+
+
+
