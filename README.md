@@ -24,7 +24,7 @@
 - More kind of zombies
 - More designs of weapons
 - update later
-### Game engine and programming language
+## Game engine and programming language
 - The game will use the game engine Unity and the programming language C#
 - Unity is an friendly game engine that suitable for many devices , developed by Unity Technologies,  can be used to create three-dimensional (3D) and two-dimensional (2D) games, as well as interactive simulations and other experiences.
 - Unity is considered easy to use for beginner developers and is popular for indie game development.
