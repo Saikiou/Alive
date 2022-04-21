@@ -1,5 +1,17 @@
 # Alive
-
+## Idea finalization
+### Game description:
+-This project is basically a shooting, slashing zombie named Alive, with the top-down camera angle. The goal of this game is to survive as long as you can with the given weapon like guns, swords, bazooka (can be obtained through monsters or boxes on the map), etc...and the difficulty of the game will increase with the amount of time the main character stays alive. 
+### Motivation:
+-The main reason for our group's decision to make this game is that we all have a similar passion for indie games with simple mechanics that involve high reflexes, strategy and smashing things. 
+### Image/video of similar game:
+- Hotline Miami
+  ![Tai-Hotline-Miami-2-Wrong-Number-Full](https://user-images.githubusercontent.com/101202234/164353783-d6146e6e-3af9-41ae-bea8-ea2ebae8ef8b.png)
+  ![news_off_hotlinemiami2_1](https://user-images.githubusercontent.com/101202234/164354170-60489e5e-127d-4f6c-89d2-2840caf92c70.png)
+   https://www.youtube.com/watch?v=2MvWAXiH-1k&t=334s
+- Vampire Survivors
+   ![vampire](https://user-images.githubusercontent.com/101202234/164354243-a09cbf1b-312b-4361-9e08-50924a36d728.jpg)
+    https://www.youtube.com/watch?v=pMEasHdsgWw&t=56s
 ## Top Features
 - Multi direction control
 - Wonderful map with the looking scaryyyy
