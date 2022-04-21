@@ -22,6 +22,16 @@
   ![vampire](https://user-images.githubusercontent.com/101202234/164354243-a09cbf1b-312b-4361-9e08-50924a36d728.jpg)
   https://www.youtube.com/watch?v=pMEasHdsgWw&t=56s
 
+  ![vampire](https://user-images.githubusercontent.com/101202234/164354243-a09cbf1b-312b-4361-9e08-50924a36d728.jpg)
+  https://www.youtube.com/watch?v=pMEasHdsgWw&t=56s
+
+## Team Members
+
+- Huỳnh Quốc Cường - ITITIU19092
+- Trần Huỳnh Nhật Thi - ITITIU20311
+- Dương Thái Cảnh - ITITIU19007
+- Nguyễn Huy Minh - ITITIU19158
+
 ## Top Features
 
 - Multi direction control
