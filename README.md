@@ -46,7 +46,7 @@
 - Many beautiful attacking effects.
 - More kind of zombies
 - More designs of weapons
-- update later
+- Update later
 
 ## Game engine and programming language
 
